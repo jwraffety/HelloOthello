@@ -4,8 +4,7 @@
 """
 COMS W4701 Artificial Intelligence - Programming Homework 2
 
-An AI player for Othello. This is the template file that you need to  
-complete and submit. 
+An AI player for Othello. Uses mini-max and alpha-beta pruning to make a selection of it's next move.
 
 @author: JACKSON RAFFETY (JWR2131)
     COLLABORATORS: MFR2156, CSR2139
